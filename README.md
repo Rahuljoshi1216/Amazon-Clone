@@ -35,7 +35,6 @@ cd amazon-clone
 Open index.html in your browser to view the project.
 
 # File Structure
-
 amazon-clone/
 │-- index.html  (Main HTML file)
 │-- style.css   (Stylesheet for the project)
