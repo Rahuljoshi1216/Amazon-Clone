@@ -1,9 +1,8 @@
 # Amazon-Clone
-Amazon Clone
 
 Amazon Clone is a simple front-end project that mimics the basic layout and design of the Amazon website. Built using HTML and CSS, this project serves as a demonstration of UI design and responsiveness.
 
-Features
+#Features
 
 Fully responsive navbar with search functionality.
 
@@ -15,7 +14,7 @@ Footer with useful links similar to Amazon.
 
 Styled using CSS to closely resemble the actual Amazon website.
 
-Technologies Used
+# Technologies Used
 
 HTML5
 
@@ -25,17 +24,17 @@ Font Awesome (for icons)
 
 Installation & Usage
 
-Clone this repository:
+# Clone this repository:
 
-git clone https://github.com/your-username/amazon-clone.git
+git clone https: https://github.com/Rahuljoshi1216/Amazon-Clone.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
 
 cd amazon-clone
 
 Open index.html in your browser to view the project.
 
-File Structure
+# File Structure
 
 amazon-clone/
 │-- index.html  (Main HTML file)
@@ -46,7 +45,7 @@ Screenshots
 
 
 
-Future Enhancements
+# Future Enhancements
 
 Add JavaScript for interactive features like a dynamic cart.
 
@@ -54,14 +53,6 @@ Improve responsiveness for smaller screen devices.
 
 Implement a backend to handle user authentication and orders.
 
-License
+# License
 
 This project is open-source and available under the MIT License.
-
-Contact
-
-For any queries or suggestions, feel free to reach out:
-
-GitHub: your-username
-
-Email: your-email@example.com
